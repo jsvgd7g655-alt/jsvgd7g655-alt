@@ -63,9 +63,9 @@ Outside of security, I'm comfortable working across both Linux and Windows envir
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=CodebindPyth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=jsvgd7g655-alt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebindPyth&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsvgd7g655-alt&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
