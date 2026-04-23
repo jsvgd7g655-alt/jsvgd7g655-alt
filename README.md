@@ -1,16 +1,21 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001d3d,60:003566,100:00b4d8&height=220&section=header&text=Hey%20There!%20I'm%20Chris&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Computer%20Science%20Student%20%7C%20Code%20%7C%20Linux%20%7C%20Security%20⚡&descAlignY=60&descSize=17&descColor=90e0ef"/>
+<!-- Animated Header - Impressive Shark Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,20:001427,50:002855,80:005f8a,100:00b4d8&height=240&section=header&text=Hey!%20I'm%20Chris%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20Computer%20Science%20Student%20%7C%20Code%20%7C%20Linux%20%7C%20Security%20%E2%9A%A1&descAlignY=62&descSize=18&descColor=90e0ef&stroke=00b4d8&strokeWidth=2"/>
 
-<!-- Typing SVG -->
+<!-- Matrix rain gif overlay feel via typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=🖥️+Computer+Science+Student;⚙️+C+%7C+C%2B%2B+Systems+Developer;🐍+Python+Enthusiast;🌐+HTML+%26+Web+Explorer;🐧+Linux+Power+User;🛡️+Kali+Linux+%26+Security+Learner;🔮+Always+Building+Something+Cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%96%A5%EF%B8%8F+Computer+Science+Student;%E2%9A%99%EF%B8%8F+C+%7C+C%2B%2B+Systems+Developer;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%8C%90+HTML+%26+Web+Explorer;%F0%9F%90%A7+Linux+Power+User;%F0%9F%9B%A1%EF%B8%8F+Kali+Linux+%26+Security+Learner;%F0%9F%94%AE+Always+Building+Something+Cool" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Animated Badges Row -->
+<!-- Glowing separator line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
+
+<!-- Badges -->
 <img src="https://img.shields.io/badge/Status-Student-00b4d8?style=for-the-badge&logo=academia&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaboration-0077b6?style=for-the-badge&logo=handshake&logoColor=white"/>
@@ -25,7 +30,6 @@
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 👾 `whoami`
@@ -38,7 +42,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   Name    ──►  kanellos.xristos                                 ║
+║   Name    ──►  Chris                                         ║
 ║   Role    ──►  Computer Science Student 🎓                   ║
 ║   Focus   ──►  Systems, Security & Software Dev              ║
 ║   Based   ──►  Greece 🇬🇷                                    ║
@@ -183,8 +187,6 @@ Currently: Learning something new every single day 🚀
     <img alt="Snake animation" src="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake-dark.svg"/>
   </picture>
 </div>
-
-> ⚙️ To enable the snake animation, set up a GitHub Action using [Platane/snk](https://github.com/Platane/snk)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
