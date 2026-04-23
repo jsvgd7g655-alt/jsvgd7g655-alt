@@ -1,104 +1,290 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1923,100:1a1f2e&height=220&section=header&text=Hey%20there,%20I'm%20Chris%20👋&fontSize=42&fontColor=58a6ff&fontAlignY=40&desc=Python%20Dev%20%E2%80%A2%20C%20Programmer%20%E2%80%A2%20Automation%20%E2%80%A2%20Security%20Enthusiast&descAlignY=62&descColor=8b949e&descSize=16" width="100%"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001d3d,60:003566,100:00b4d8&height=220&section=header&text=Hey%20There!%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Computer%20Science%20Student%20%7C%20Code%20%7C%20Linux%20%7C%20Security%20⚡&descAlignY=60&descSize=17&descColor=90e0ef"/>
 
-<!-- TYPING EFFECT — alternates between both bio lines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+%26+C+Developer+%7C+Pentesting+%7C+Digital+Systems+%40+UoP;Python+Dev+%E2%80%A2+C+Programmer+%E2%80%A2+Automation+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=🖥️+Computer+Science+Student;⚙️+C+%7C+C%2B%2B+Systems+Developer;🐍+Python+Enthusiast;🌐+HTML+%26+Web+Explorer;🐧+Linux+Power+User;🛡️+Kali+Linux+%26+Security+Learner;🔮+Always+Building+Something+Cool" alt="Typing SVG" />
+</a>
 
-</div>
+<br/><br/>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a 20-year-old Computer Science student at the **Department of Digital Systems, University of Peloponnese**. I write Python and C — mostly CLI tools, automation scripts, and anything that runs in a terminal.
-
-Security has always pulled me in. I'm drawn to how systems can be probed, broken, and hardened. I spend time with Kali Linux, learning penetration testing concepts and building a proper mindset for offensive security.
-
-Outside of security, I'm comfortable working across both Linux and Windows environments, and I try to keep my code simple, purposeful, and well-structured.
-
-- 🎓 Digital Systems @ UoP — Sparti, Greece
-- 🐍 Main language: Python — also fluent in C
-- 🔐 Currently exploring: penetration testing & security tooling
-- 🛠️ Building: CLI utilities, automation scripts, synthetic data tools
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Systems & OS
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Tools & Dev Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Security & Pentesting
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+<!-- Animated Badges Row -->
+<img src="https://img.shields.io/badge/Status-Student-00b4d8?style=for-the-badge&logo=academia&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-0077b6?style=for-the-badge&logo=handshake&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=jsvgd7g655-alt&label=Profile+Views&color=00b4d8&style=for-the-badge"/>
+&nbsp;
+<a href="https://github.com/jsvgd7g655-alt?tab=followers">
+  <img src="https://img.shields.io/github/followers/jsvgd7g655-alt?label=Followers&style=for-the-badge&color=00b4d8&labelColor=0d1117"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 👾 `whoami`
+
+```bash
+┌──(jsvgd7g655-alt㉿github)-[~]
+└─$ cat about_me.txt
+```
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Name    ──►  kanellos.xristos                                 ║
+║   Role    ──►  Computer Science Student 🎓                   ║
+║   Focus   ──►  Systems, Security & Software Dev              ║
+║   Based   ──►  Greece 🇬🇷                                    ║
+║   OS      ──►  Ubuntu Linux / Kali Linux                     ║
+║   VM      ──►  Oracle VirtualBox                             ║
+║   Editor  ──►  VS Code + Vim (because both matter)           ║
+║   Shell   ──►  Bash, always Bash                             ║
+║   Quote   ──►  "In a world full of Windows, be Linux."       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+```bash
+┌──(jsvgd7g655-alt㉿github)-[~]
+└─$ echo "Currently: Learning something new every single day 🚀"
+Currently: Learning something new every single day 🚀
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 🧬 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 &nbsp; Studying **Computer Science** — living the `segfault` life in C
+- 💡 &nbsp; Passionate about **systems programming**, **Linux internals** & **cybersecurity**
+- 🐧 &nbsp; Daily driving **Ubuntu Linux** — because life's too short for BSODs
+- 🛡️ &nbsp; Exploring **Kali Linux** on **Oracle VirtualBox** for ethical hacking & CTFs
+- 🔭 &nbsp; Currently learning: **Data Structures in C**, **OOP in C++**, **Bash scripting**
+- 🧪 &nbsp; I break things in a VM so I don't break things in real life
+- 💬 &nbsp; Ask me about **C pointers**, **Linux commands**, or **why Python is fun**
+- 🎯 &nbsp; Goal: Master systems + security and contribute to open source
+- ⚡ &nbsp; Fun fact: My code compiles on the **first try**... sometimes 😅
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=jsvgd7g655-alt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+### ⚙️ Programming Languages
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsvgd7g655-alt&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/><br/>
+      <b>C</b><br/>
+      <sub>Systems & Low-level</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/><br/>
+      <b>C++</b><br/>
+      <sub>OOP & Performance</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/><br/>
+      <b>Python</b><br/>
+      <sub>Scripting & Automation</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML"/><br/>
+      <b>HTML5</b><br/>
+      <sub>Web Structure</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash"/><br/>
+      <b>Bash</b><br/>
+      <sub>Shell Scripting</sub>
+    </td>
+  </tr>
+</table>
+
+### 🐧 Linux & Operating Systems
+
+<img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-2024.x-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Windows-Subsystem-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+### 🖥️ Virtualization & DevTools
+
+<img src="https://img.shields.io/badge/Oracle_VM-VirtualBox-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GCC-Compiler-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GDB-Debugger-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsvgd7g655-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=0077b6&border_radius=15&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jsvgd7g655-alt&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=caf0f8&sideNums=ffffff&currStreakNum=ffffff&border_radius=15"/>
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsvgd7g655-alt&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&border_radius=15&langs_count=8"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jsvgd7g655-alt&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=003566&hide_border=true&radius=15&custom_title=Contribution%20Graph"/>
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+> ⚙️ To enable the snake animation, set up a GitHub Action using [Platane/snk](https://github.com/Platane/snk)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 🚀 Current Learning Roadmap
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                   LEARNING ROADMAP 2025                       ║
+╠═══════════════════════════════════════════════════════════════╣
+║  [██████████] 100%  ► Linux CLI & File System                 ║
+║  [████████░░]  80%  ► C Programming & Pointers                ║
+║  [██████░░░░]  60%  ► C++ & Object Oriented Programming       ║
+║  [█████░░░░░]  50%  ► Python Scripting & Automation           ║
+║  [████░░░░░░]  40%  ► HTML & Web Fundamentals                 ║
+║  [████░░░░░░]  40%  ► Bash Shell Scripting                    ║
+║  [███░░░░░░░]  30%  ► Kali Linux & Ethical Hacking Basics     ║
+║  [██░░░░░░░░]  20%  ► Networking & TCP/IP                     ║
+║  [█░░░░░░░░░]  10%  ► CTF Challenges                          ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 📌 Featured Project
+## ⚡ Random Dev Quote
 
 <div align="center">
-
-[![wordsmith](https://github-readme-stats.vercel.app/api/pin/?username=CodebindPyth&repo=wordsmith&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/CodebindPyth/wordsmith)
-
-</div>
-
-> **wordsmith** — Synthetic data generator for custom passwords, emails, and phone numbers. Built for testing and development workflows.
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/@CodebindPyth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodebindPyth)
-[![Twitter / X](https://img.shields.io/badge/@CodebindPyth-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodebindPyth)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xrhstosxaatzitrian@gmail.com)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=jsvgd7g655-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 💻 Favorite Terminal Commands
+
+```bash
+# My daily drivers 🐧
+$ sudo apt update && sudo apt upgrade -y     # Stay updated, always
+$ grep -r "TODO" .                           # The endless list...
+$ man everything                             # RTFM is a lifestyle
+$ gcc -Wall -Wextra -o program program.c     # Compile with all warnings
+$ gdb ./program                              # When printf isn't enough
+$ nmap -sV 192.168.x.x                       # Kali things 👀
+$ python3 -m http.server 8080                # Quick server, no setup
+$ history | grep "that command I forgot"     # We've all been there
+```
+
+---
+
+## 📬 Connect With Me
+
 <div align="center">
 
-*Always learning • Building • Breaking • Improving*
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/jsvgd7g655-alt">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://discord.com/users/YOUR_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,50:0f1923,100:0d1117&height=100&section=footer" width="100%"/>
+<br/><br/>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+&nbsp;
+<em><b>I love connecting with fellow developers and learners!</b> If you want to say hi, I'll be happy to chat. 😊</em>
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003566,50:0077b6,100:00b4d8&height=130&section=footer&animation=fadeIn"/>
+
+<div align="center">
+  <sub>⭐ If you like my profile, consider starring some of my repos! ⭐</sub><br/>
+  <sub>💙 Made with passion, <code>gcc</code>, and way too much coffee</sub><br/><br/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  &nbsp;
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
