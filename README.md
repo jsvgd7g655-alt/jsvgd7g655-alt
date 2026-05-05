@@ -155,20 +155,6 @@ Currently: Learning something new every single day 🚀
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsvgd7g655-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=0077b6&border_radius=15&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jsvgd7g655-alt&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=caf0f8&sideNums=ffffff&currStreakNum=ffffff&border_radius=15"/>
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsvgd7g655-alt&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&border_radius=15&langs_count=8"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
----
 
 ## 📈 Contribution Activity
 
