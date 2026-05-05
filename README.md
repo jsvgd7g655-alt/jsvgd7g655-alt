@@ -43,9 +43,9 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   Name    ──►  Chris                                         ║
-║   Role    ──►  Computer Science Student 🎓                   ║
+║   Role    ──►  Computer Science Student 🎓                  ║
 ║   Focus   ──►  Systems, Security & Software Dev              ║
-║   Based   ──►  Greece 🇬🇷                                    ║
+║   Based   ──►  Greece 🇬🇷                                     ║
 ║   OS      ──►  Ubuntu Linux / Kali Linux                     ║
 ║   VM      ──►  Oracle VirtualBox                             ║
 ║   Editor  ──►  VS Code + Vim (because both matter)           ║
