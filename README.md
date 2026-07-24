@@ -127,7 +127,7 @@ Currently: Learning something new every single day 🚀
 &nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Kali_Linux-2024.x-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-2026.2-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Windows-Subsystem-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 
