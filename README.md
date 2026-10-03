@@ -1,40 +1,25 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<!-- Animated Header - Impressive Shark Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,20:001427,50:002855,80:005f8a,100:00b4d8&height=240&section=header&text=Hey!%20I'm%20Chris%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20Computer%20Science%20Student%20%7C%20Code%20%7C%20Linux%20%7C%20Security%20%E2%9A%A1&descAlignY=62&descSize=18&descColor=90e0ef&stroke=00b4d8&strokeWidth=2"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=230&section=header&text=Hey%2C%20I'm%20Chris&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20%26%20Digital%20Systems%20Student%20%7C%20Linux%20%7C%20Security&descAlignY=60&descSize=18)
 
-<!-- Matrix rain gif overlay feel via typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%96%A5%EF%B8%8F+Computer+Science+Student;%E2%9A%99%EF%B8%8F+C+%7C+C%2B%2B+Systems+Developer;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%8C%90+HTML+%26+Web+Explorer;%F0%9F%90%A7+Linux+Power+User;%F0%9F%9B%A1%EF%B8%8F+Kali+Linux+%26+Security+Learner;%F0%9F%94%AE+Always+Building+Something+Cool" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=2nd-Year+Informatics+%26+Digital+Systems+Student;Systems+%26+Security+Enthusiast;C%2C+C%2B%2B+%26+Python;Currently+building+a+bank+statement+analyzer;Learning+something+new+every+day)](https://github.com/jsvgd7g655-alt)
 
-<br/>
+<br>
 
-<!-- Glowing separator line -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Status-Student-00b4d8?style=for-the-badge&logo=academia&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-0077b6?style=for-the-badge&logo=handshake&logoColor=white"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=jsvgd7g655-alt&label=Profile+Views&color=00b4d8&style=for-the-badge"/>
-&nbsp;
-<a href="https://github.com/jsvgd7g655-alt?tab=followers">
-  <img src="https://img.shields.io/github/followers/jsvgd7g655-alt?label=Followers&style=for-the-badge&color=00b4d8&labelColor=0d1117"/>
-</a>
+![Status](https://img.shields.io/badge/Status-2nd%20Year%20Student-00b4d8?style=for-the-badge&logo=academia&logoColor=white)
+![Collab](https://img.shields.io/badge/Open%20To-Collaboration-0077b6?style=for-the-badge&logo=handshake&logoColor=white)
+![Build Fest](https://img.shields.io/badge/ZTM-Build%20Fest%202026-00b4d8?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=jsvgd7g655-alt&label=Profile+Views&color=00b4d8&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/jsvgd7g655-alt?label=Followers&style=for-the-badge&color=00b4d8&labelColor=0d1117)](https://github.com/jsvgd7g655-alt?tab=followers)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 👾 `whoami`
 
-```bash
+```
 ┌──(jsvgd7g655-alt㉿github)-[~]
 └─$ cat about_me.txt
 ```
@@ -44,6 +29,7 @@
 ║                                                              ║
 ║   Name    ──►  Chris                                         ║
 ║   Role    ──►  Computer Science Student 🎓                  ║
+║   Studies ──►  Informatics - Digital Systems (Year 2)        ║
 ║   Focus   ──►  Systems, Security & Software Dev              ║
 ║   Based   ──►  Greece 🇬🇷                                     ║
 ║   OS      ──►  Ubuntu Linux / Kali Linux                     ║
@@ -55,174 +41,105 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-```bash
+```
 ┌──(jsvgd7g655-alt㉿github)-[~]
 └─$ echo "Currently: Learning something new every single day 🚀"
 Currently: Learning something new every single day 🚀
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ---
 
 ## 🧬 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🎓 &nbsp; Studying **Computer Science** — living the `segfault` life in C
-- 💡 &nbsp; Passionate about **systems programming**, **Linux internals** & **cybersecurity**
-- 🐧 &nbsp; Daily driving **Ubuntu Linux** — because life's too short for BSODs
-- 🛡️ &nbsp; Exploring **Kali Linux** on **Oracle VirtualBox** for ethical hacking & CTFs
-- 🔭 &nbsp; Currently learning: **Data Structures in C**, **OOP in C++**, **Bash scripting**
-- 🧪 &nbsp; I break things in a VM so I don't break things in real life
-- 💬 &nbsp; Ask me about **C pointers**, **Linux commands**, or **why Python is fun**
-- 🎯 &nbsp; Goal: Master systems + security and contribute to open source
-- ⚡ &nbsp; Fun fact: My code compiles on the **first try**... sometimes 😅
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+- 🎓 **2nd-year student** of **Informatics – Digital Systems** — living the `segfault` life in C
+- 💡 Passionate about **systems programming**, **Linux internals** & **cybersecurity**
+- 🐧 Daily driving **Ubuntu Linux** — because life's too short for BSODs
+- 🛡️ Exploring **Kali Linux** on **Oracle VirtualBox** for ethical hacking & CTFs
+- 🔭 Currently learning: **Data Structures in C**, **OOP in C++**, **Bash scripting**
+- 🧪 I break things in a VM so I don't break things in real life
+- 💬 Ask me about **C pointers**, **Linux commands**, or **why Python is fun**
+- 🎯 Goal: Master systems + security and contribute to open source
+- ⚡ Fun fact: My code compiles on the **first try**... sometimes 😅
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Currently Building — ZTM Build Fest 2026
+
+**[Bank Statement Analyzer](https://github.com/zero-to-mastery/ZTM-Build-Fest/pull/4)** — a command-line tool that reads the CSV you export from your bank and shows where your money goes.
+
+[![PR status](https://img.shields.io/github/issues/detail/state/zero-to-mastery/ZTM-Build-Fest/4?label=Pull%20Request%20%234&style=for-the-badge)](https://github.com/zero-to-mastery/ZTM-Build-Fest/pull/4)
+![Python](https://img.shields.io/badge/Python-stdlib%20only-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Offline](https://img.shields.io/badge/100%25-Offline-2ea44f?style=for-the-badge)
+
+- 📊 Spending by category, by month, biggest expenses and recurring payments
+- 🇬🇷 Understands Greek and English bank exports (`;` or `,`, `1.234,56` or `1,234.56`, old Greek encodings)
+- ➕ `add` command to record deposits and withdrawals from the terminal
+- 🔒 Runs fully offline: your bank data never leaves your computer
+- 🧪 Unit tests included
+
+```mermaid
+flowchart LR
+    A[Bank CSV] --> B[Detect columns]
+    B --> C[Clean amounts & dates]
+    C --> D[Categorize with categories.json]
+    D --> E[Terminal report]
+    D --> F[HTML report]
+    D --> G[Categorized CSV]
+```
+
+---
+
+## 🗂️ Projects
+
+| Project | What it is |
+|---|---|
+| [bank-statement-analyzer](https://github.com/zero-to-mastery/ZTM-Build-Fest/pull/4) | Offline CLI that analyzes bank CSV exports (ZTM Build Fest) |
+| [bank-Atm-simulator-python](https://github.com/jsvgd7g655-alt/bank-Atm-simulator-python) | ATM simulator in Python |
+| [HTML-Car-Game](https://github.com/jsvgd7g655-alt/HTML-Car-Game) | A simple game made in HTML for a college project |
+
+---
+
+## 🛠️ Tech Arsenal & GitHub Activity
 
 <div align="center">
 
-### ⚙️ Programming Languages
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,html,bash,linux,ubuntu,kali,vscode,vim,git,github&perline=6)
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/><br/>
-      <b>C</b><br/>
-      <sub>Systems & Low-level</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/><br/>
-      <b>C++</b><br/>
-      <sub>OOP & Performance</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/><br/>
-      <b>Python</b><br/>
-      <sub>Scripting & Automation</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML"/><br/>
-      <b>HTML5</b><br/>
-      <sub>Web Structure</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash"/><br/>
-      <b>Bash</b><br/>
-      <sub>Shell Scripting</sub>
-    </td>
-  </tr>
-</table>
-
-### 🐧 Linux & Operating Systems
-
-<img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-26.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Kali_Linux-2026.2-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Windows-Subsystem-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-
-### 🖥️ Virtualization & DevTools
-
-<img src="https://img.shields.io/badge/Oracle_VM-VirtualBox-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GCC-Compiler-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GDB-Debugger-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
----
-
-
-## 📈 Contribution Activity
-
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jsvgd7g655-alt&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=003566&hide_border=true&radius=15&custom_title=Contribution%20Graph"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsvgd7g655-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsvgd7g655-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
 </div>
 
 ---
 
 ## 🐍 Watch the Snake Eat My Contributions
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake-dark.svg"/>
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+![Snake animation](https://raw.githubusercontent.com/jsvgd7g655-alt/jsvgd7g655-alt/output/github-snake-dark.svg)
 
 ---
 
-## 🚀 Current Learning Roadmap
+## 🧭 Learning Roadmap 2026
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                   LEARNING ROADMAP 2025                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║  [██████████] 100%  ► Linux CLI & File System                 ║
-║  [████████░░]  80%  ► C Programming & Pointers                ║
-║  [██████░░░░]  60%  ► C++ & Object Oriented Programming       ║
-║  [█████░░░░░]  50%  ► Python Scripting & Automation           ║
-║  [████░░░░░░]  40%  ► HTML & Web Fundamentals                 ║
-║  [████░░░░░░]  40%  ► Bash Shell Scripting                    ║
-║  [███░░░░░░░]  30%  ► Kali Linux & Ethical Hacking Basics     ║
-║  [██░░░░░░░░]  20%  ► Networking & TCP/IP                     ║
-║  [█░░░░░░░░░]  10%  ► CTF Challenges                          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## ⚡ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=jsvgd7g655-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+| | Topic |
+|---|---|
+| ✅ **Done** | Linux CLI & file system |
+| 🔨 **Now** | C programming & pointers · Data structures in C · C++ & OOP · Python projects · Bash scripting |
+| 🔜 **Next** | Networking & TCP/IP · Kali Linux & ethical hacking basics |
+| 🎯 **Later** | CTF challenges · contributing to open source |
 
 ---
 
 ## 💻 Favorite Terminal Commands
 
-```bash
+```
 # My daily drivers 🐧
 $ sudo apt update && sudo apt upgrade -y     # Stay updated, always
 $ grep -r "TODO" .                           # The endless list...
@@ -236,43 +153,23 @@ $ history | grep "that command I forgot"     # We've all been there
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
+
+I love connecting with fellow developers and learners. Follow me here on GitHub, or open an issue on one of my repos and say hi. 😊
+
+<!--
+Add your own links below when you are ready, then delete the comment markers.
+Replace YOUR_LINKEDIN with your LinkedIn username (the part after linkedin.com/in/).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+-->
 
 <div align="center">
 
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/jsvgd7g655-alt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+⭐ If you like my profile, consider starring some of my repos! ⭐
 
-<br/><br/>
+💙 Made with passion, `gcc`, and way too much coffee
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-&nbsp;
-<em><b>I love connecting with fellow developers and learners!</b> If you want to say hi, I'll be happy to chat. 😊</em>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=130&section=footer&animation=fadeIn)
 
-</div>
-
----
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003566,50:0077b6,100:00b4d8&height=130&section=footer&animation=fadeIn"/>
-
-<div align="center">
-  <sub>⭐ If you like my profile, consider starring some of my repos! ⭐</sub><br/>
-  <sub>💙 Made with passion, <code>gcc</code>, and way too much coffee</sub><br/><br/>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  &nbsp;
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
