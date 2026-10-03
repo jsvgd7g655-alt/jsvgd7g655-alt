@@ -1,4 +1,4 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+\<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=230&section=header&text=Hey%2C%20I'm%20Chris&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20%26%20Digital%20Systems%20Student%20%7C%20Linux%20%7C%20Security&descAlignY=60&descSize=18)
@@ -96,6 +96,12 @@ flowchart LR
 | [bank-statement-analyzer](https://github.com/zero-to-mastery/ZTM-Build-Fest/pull/4) | Offline CLI that analyzes bank CSV exports (ZTM Build Fest) |
 | [bank-Atm-simulator-python](https://github.com/jsvgd7g655-alt/bank-Atm-simulator-python) | ATM simulator in Python |
 | [HTML-Car-Game](https://github.com/jsvgd7g655-alt/HTML-Car-Game) | A simple game made in HTML for a college project |
+
+### 🤝 Collaborations
+
+| Project | My role |
+|---|---|
+| [wordsmith](https://github.com/CodebindPyth/wordsmith) by [@CodebindPyth](https://github.com/CodebindPyth) — synthetic data generator for custom passwords, emails and phone numbers, for testing and development | Helped with ideas, testing and documentation |
 
 ---
 
