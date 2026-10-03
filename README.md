@@ -1,7 +1,8 @@
-\<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=230&section=header&text=Hey%2C%20I'm%20Chris&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20%26%20Digital%20Systems%20Student%20%7C%20Linux%20%7C%20Security&descAlignY=60&descSize=18)
+# Hey, I'm Chris 👋
+
+**Informatics & Digital Systems Student** · Linux · Security
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=2nd-Year+Informatics+%26+Digital+Systems+Student;Systems+%26+Security+Enthusiast;C%2C+C%2B%2B+%26+Python;Currently+building+a+bank+statement+analyzer;Learning+something+new+every+day)](https://github.com/jsvgd7g655-alt)
 
@@ -163,12 +164,6 @@ $ history | grep "that command I forgot"     # We've all been there
 
 I love connecting with fellow developers and learners. Follow me here on GitHub, or open an issue on one of my repos and say hi. 😊
 
-<!--
-Add your own links below when you are ready, then delete the comment markers.
-Replace YOUR_LINKEDIN with your LinkedIn username (the part after linkedin.com/in/).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
--->
 
 <div align="center">
 
@@ -176,6 +171,5 @@ Replace YOUR_LINKEDIN with your LinkedIn username (the part after linkedin.com/i
 
 💙 Made with passion, `gcc`, and way too much coffee
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=130&section=footer&animation=fadeIn)
 
 </div>
